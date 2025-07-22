@@ -1,11 +1,11 @@
-Εδώ περιλαμβάνονται μερικά links από τη δουλειά που έχω κάνει πάνω σε κατασκευή ιστοσελίδων. Οι σελίδες είναι σχεδιασμένες από εμένα στο Figma κατόπιν προσωπικής συνεννοήσης με κάθε πελάτη. Η κατασκευή έγινε σε Wordpress, αρχικά με wp baker και αργότερα με kadence:
+A collection of websites I've developed, from initial concept/design stages to final delivery and support. The sites were designed in Figma after personal consultation with each client. All were developed using WordPress:
 
 -Gazou Boutique (eShop-https://gazouboutique.gr/)
 
--Sapranidis (Παρουσίαση Επιχείρησης-https://sapranidis.gr/)
+-Sapranidis (Business Presentation/Online Portfolio-https://sapranidis.gr/)
 
--Lasari (Παρουσίαση/Booking φτιαγμένη για WCAG-2.0 σύμφωνα με προδιαγραφές κρατικού προγράμματος-https://lasari.gr/)
+-Lasari (Business Presentation/Booking, WCAG-compliant website aligned with the technical requirements of an associated government subsidy program-https://lasari.gr/)
 
--Elysium Rooms (Παρουσίαση/Booking-https://elysiumrooms.gr/)
+-Elysium Rooms (Business Presentation/Booking-https://elysiumrooms.gr/)
 
--Anrok Fitness (Παρουσίαση/Subscription-https://anrok-fitness.com/)
+-Anrok Fitness (Business Presentation/Subscription-https://anrok-fitness.com/)
