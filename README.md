@@ -4,8 +4,6 @@ A collection of websites I've developed, from initial concept/design stages to f
 
 -Sapranidis (Business Presentation/Online Portfolio-https://sapranidis.gr/)
 
--Shop-One (eShop with 8000+ products-https://shop-one.gr/)
-
 -Lasari (Business Presentation/Booking, WCAG-compliant website aligned with the technical requirements of an associated government subsidy program-https://lasari.gr/)
 
 -Elysium Rooms (Business Presentation/Booking-https://elysiumrooms.gr/)
